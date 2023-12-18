@@ -1,0 +1,36 @@
+.college-rules-div{
+    padding: 50px 0px 50px 0px;
+}
+
+.college-rules-title{
+    color: #242424;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    margin-bottom: 20px;
+    margin-top: 10px;
+
+}
+
+
+.college-rules-right-img-2-div{
+    margin-top: -95px;
+    margin-left: 175px;
+}
+.college-rules-right-top{
+    display: flex;
+    justify-content: flex-end;
+}
+.college-rules-right-img{
+    height: 200px;
+    width: 300px;
+}
+
+.clothing-div{
+    padding: 50px 0px;
+}
+
+.academic-footer{
+    display: none;
+}
+

@@ -1,0 +1,59 @@
+@media only screen and (max-width: 992px) {
+.application-procedure-common-rules{
+    width: 100%;
+}
+.application-last-span-common{
+    width: 100%;
+}
+}
+
+@media only screen and (max-width: 778px) {
+    .admission-content{
+        margin-top: 30px;
+    }
+
+    .application-common {
+    
+        padding: 30px 20px;
+    }
+    
+    .application-top-common {
+        
+        font-size: 24px;
+       
+    
+    }
+    
+   
+    
+    .application-procedure-hr-div {
+        width: 90%;
+    }
+    
+
+    .application-procedure-bottom{
+      width: 90%;
+    }
+    .delighted-hr-div{
+        width: 100%;
+    }
+    .delighted-bottom{
+        width: 100%;
+    }
+
+    .all-common-top-for-application{
+        padding: 30px 20px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .application-procedure-hr-div {
+        width: 100%;
+    }
+    
+
+    .application-procedure-bottom{
+      width: 100%;
+    }
+
+}

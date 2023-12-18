@@ -1,0 +1,44 @@
+@media only screen and (max-width: 1200px) {
+.college-rules-right-top{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.resident-rule-div-inner-right{
+   
+    margin-top: 10px;
+}
+
+.clothing-left-img-div{
+    margin-bottom: 10px;
+}
+
+
+}
+
+@media only screen and (max-width: 778px) {
+    .college-rules-title{
+      
+        font-size: 24px;
+      
+    
+    }
+    .academic-footer{
+        display: block;
+    }
+    
+    
+    }
+
+@media only screen and (max-width: 575px) {
+    .college-rules-right-top{
+        margin-top: 0px;
+    }
+    .college-rules-right-img{
+        /* height: 200px; */
+        width: 200px;
+    }
+    
+    
+    }

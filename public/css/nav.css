@@ -1,0 +1,94 @@
+.language_active {
+    color: white;
+    background: #af8f3f;
+
+}
+
+.dropdown-toggle{
+    color: white ;
+    position: relative;
+    top: 2px;
+}
+.navbar-nav .nav-link:hover , .navbar-nav .nav-link.nav_item_active {
+    color: #14213d !important;
+    background: white !important;
+    border-radius: 5px !important;
+    /* padding-left: 15px;
+    padding-right: 15px; */
+}
+a.dropdown-item:hover , a.dropdown-item.sub-item-active{
+    color: white !important;
+    background: #14213d;
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+}
+
+.dropdown-toggle:focus {
+    box-shadow: none !important;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none !important;
+}
+
+.dropdown-menu li{
+    position: relative;
+}
+
+.dropdown-menu>li:hover>.submenu{
+    display: block;
+}
+
+/* .dropdown li{
+    border-bottom: 1px solid black;
+} */
+
+@media only screen and (min-width: 992px) {
+    .dropdown-menu .submenu{
+        position: absolute;
+        display: none;
+        top: 0;
+        left: 100%;
+    }
+
+    
+
+}
+
+@media only screen and (max-width: 991px) {
+
+    .dropdown .dropdown-menu.submenu li a{
+        padding-left: 40px;
+    }
+
+    .navbar-nav .nav-link:hover , .navbar-nav .nav-link.nav_item_active {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+    }
+
+    .dropdown-toggle{
+        
+        left: -5px;
+    }
+
+}
+
+@media only screen and (max-width: 778px) {
+ .titleLogoText{
+    display: none;
+ }
+ .mujibLogoText{
+    display: none;
+ }
+
+
+}
+
+@media only screen and (max-width: 575px) {
+.top-nav{
+    padding: 0px 10px;
+}
+
+}

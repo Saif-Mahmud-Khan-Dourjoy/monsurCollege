@@ -1,0 +1,90 @@
+
+@media only screen and (max-width: 992px) {
+.founder-right-div{
+  margin-top: 15px;  
+}
+.founder-left-div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.founder-left-div-image{
+    width: 40%;
+}
+.founder-details{
+   
+   flex-direction: column;
+    align-items: space-between;
+    min-height: 200px;
+    
+    
+    }
+.directors-icon-div{
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+}   
+.director-image-top-div{
+    display: flex;
+    justify-content: center;
+}
+.director-main-image{
+    height: 200px;
+    width: 200px;
+} 
+.margin-top-for-director{
+    margin-top: 20px;
+}
+
+.teacher-info-div{
+
+    margin-top: 15px;
+    
+}
+
+}
+@media only screen and (max-width: 778px) {
+    .director-para{
+        font-size: 16px;
+    }
+
+    .teacher-name{
+       
+    font-size: 18px;
+   
+    
+    }
+    .teacher-department-div{
+   
+    font-size: 16px;
+    
+    }
+    .teacher-university-name{
+   
+    font-size: 16px;
+  
+    
+    }
+    .teacher-info-div{
+
+        margin-top: 10px;
+        
+    }
+
+}
+@media only screen and (max-width: 578px) {
+
+    .directors-icon-div{
+        
+        padding-left: 50px;
+        padding-right: 50px;
+      
+    } 
+    
+
+
+}

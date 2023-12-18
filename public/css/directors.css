@@ -1,0 +1,144 @@
+.founder-div {
+    margin-top: 30px;
+}
+
+.founder-name {
+    color: #2C2C2C;
+
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.founder-designation {
+    margin: 10px 0px;
+    color: #E57C23;
+
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+
+}
+
+.founder-details {
+    border-radius: 10px;
+    background: rgba(36, 39, 83, 0.10);
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    min-height: 100px;
+
+
+}
+
+.founder-speech {
+    color: rgba(0, 0, 0, 0.70);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.board-of-directors-title {
+    border-radius: 18px;
+    background: #1B1B1B;
+    text-align: center;
+    color: #E8AA42;
+    padding: 10px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    margin: 30px 0px;
+
+}
+
+.directors-icon-main-div {
+    display: flex;
+    align-items: center;
+
+}
+
+.directors-icon-div {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 15px 0px;
+    justify-content: space-between;
+
+}
+
+.board-of-directors-main-div-left{
+    border-radius: 12px;
+    border: 1px solid #EBEBED;
+
+    background: #FFF;
+
+    box-shadow: 30px 30px 60px 0px rgba(0, 0, 0, 0.08);
+    padding: 10px;
+}
+
+.director-main-image{
+    width: 100%;
+}
+
+.directors-img-div {
+    
+}
+
+.director-details-div {
+    padding: 10px;
+    border-radius: 8px;
+    background: #302870;
+}
+
+.directors-icon{
+    height: 40px; 
+    width: 40px;
+}
+.director-para{
+    font-size: 18px;
+}
+
+.teacher-top-div{
+border-radius: 12px;
+border: 1px solid #C4C4C4;
+background: #FFF;
+padding: 10px;
+}
+
+.teacher-name{
+    color: #E8AA42;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+text-align: center;
+
+}
+.teacher-department-div{
+color: #FFF;
+text-align: center;
+font-size: 17px;
+font-style: normal;
+font-weight: 500;
+}
+.teacher-university-name{
+    color: #FFF;
+
+text-align: center;
+
+font-size: 17px;
+font-style: normal;
+font-weight: 500;
+
+}
+
+
+
+
+.teacher-info-div{
+    padding: 10px;
+    border-radius: 8px;
+    background: #302870;
+    margin-top: 20px;
+    
+}

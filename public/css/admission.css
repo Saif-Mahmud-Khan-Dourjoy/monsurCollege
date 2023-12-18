@@ -1,0 +1,112 @@
+.admission-content {
+    margin-top: 30px;
+}
+
+.application-common {
+    border-radius: 30px;
+    background: #1B1B1B;
+    padding: 30px;
+}
+
+.application-top-common {
+    color: #E8AA42;
+
+    text-align: center;
+
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+
+}
+
+.application-procedure-hr-top-div-common {
+
+    display: flex;
+    justify-content: center;
+    margin: 20px 0px;
+
+}
+
+.application-procedure-hr-div {
+    width: 90%;
+}
+
+.application-procedure-hr-div-common {
+    background: #DFDFDF;
+    height: 1px;
+
+
+}
+
+.appication-procedure-bottom-top-common {
+    display: flex;
+    justify-content: center;
+}
+
+.application-bottom-common {
+    color: #FFF;
+
+    text-align: center;
+
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+
+}
+.application-procedure-bottom{
+  width: 70%;
+}
+.delighted-hr-div{
+    width: 90%;
+}
+.delighted-bottom{
+    width: 90%;  
+}
+
+.all-common-top-for-application{
+    padding: 30px;
+    color: white;
+}
+.fill-application-div{
+    border-radius: 60px 0px;
+background:  #BF83FF;
+}
+.all-common-for-application-title{
+    color: #FFF;
+font-size: 22px;
+font-style: normal;
+font-weight: 600;
+margin-bottom: 20px;
+
+}
+.fill-application-div-bottom span{
+    display: block;
+}
+
+/* .fill-application-div-bottom span:not(:last-child){
+    margin-bottom: 10px;
+} */
+
+.pay-application-div{
+    border-radius: 0px 60px;
+background:  #FF8282;
+}
+
+.all-common-for-application-para {
+   line-height: 30px;
+}
+.application-procedure-common-rules{
+    width: 60%;
+}
+.evaluation-application-div{
+    border-radius: 60px 0px;
+    background:  #1EBFC1;
+}
+
+.application-last-span-common{
+    width: 70%;
+}
+.meet-principle-application-div{
+    border-radius: 0px 60px;
+background: #FFC147;
+}

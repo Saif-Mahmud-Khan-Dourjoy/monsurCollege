@@ -1,0 +1,60 @@
+.calender{
+    border: 1px solid #D8D8D8;
+    
+    border-radius: 10px;
+}
+
+
+.single-day{
+    padding: 0px 10px;
+    color: rgba(36, 36, 36, 0.80);
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+   
+}
+
+
+.common-right-border{
+    border-right: 1px solid #D8D8D8;
+}
+
+.calender-title{
+    padding: 10px;
+    border-bottom: 1px solid #D8D8D8;
+    
+}
+.calender-day{
+    padding: 10px;
+    border-bottom: 1px solid #D8D8D8;
+}
+.calender-des{
+    padding: 10px;
+    border-bottom: 1px solid #D8D8D8;
+   
+}
+.cal-des-div{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    /* display: inline; */
+    /* width: 90%; */
+}
+
+
+/* div.col-4.common-right-border.calender-title:nth-child(odd){
+    background: #BF83FF;
+    
+} */
+
+/* .calender .single-day .calender-title:nth-child(even){
+    background: red;
+    
+}
+.calender .single-day .calender-title:nth-child(3n){
+    background: black;
+    
+} */
+
+
+

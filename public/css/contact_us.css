@@ -1,0 +1,41 @@
+.contact-us-div{
+   margin: 50px 0px;
+}
+
+.contact-phone-div {
+    
+
+    background: #E9E9EE;
+    
+}
+.contact-email-div{
+    background: #FCF2E9;
+}
+.contact-location-div{
+    background: #FFFAEC;
+}
+
+
+.common-contact-main-div > div:not(:last-child){
+    margin-bottom: 10px;
+}
+
+.common-contact-title{
+color: rgba(0, 0, 0, 0.70);
+font-size: 20px;
+font-weight: 600;
+
+}
+.common-contact-para{
+color: rgba(0, 0, 0, 0.70);
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+overflow-wrap: break-word;
+}
+
+.common-contact-main-div{
+    padding: 15px 15px;
+    border-radius: 20px;
+    text-align: center;
+}

@@ -1,0 +1,293 @@
+@media only screen and (max-width: 1200px) {
+    .hero-content {
+        width: 50%;
+
+    }
+
+    .subject-title-middle-div {
+        font-size: 25px;
+    }
+
+
+    .group-title {
+        font-size: 25px;
+    }
+
+    .all-rights {
+       
+        font-size: 14px;
+        
+   
+    }
+   
+    .social-media-title {
+      
+   
+        font-size: 12px;
+     
+    }
+
+    .social-media-div {
+        display: flex;
+        justify-content: center;
+        
+      
+    }
+
+    .all-rights-div{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+        
+    }
+    
+
+     .common-board-div {
+        display: flex;
+        flex-direction: column;
+        row-gap: 10px;
+        align-items: center;
+        justify-content: center;
+    }
+   
+
+}
+
+@media only screen and (max-width: 992px) {
+
+    /* hero */
+    .hero-content-wrapper {
+        padding: 30px 0px;
+    }
+
+    .hero-content {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .hero-title {
+
+        font-size: 30px;
+    }
+
+    .hero-para {
+
+        font-size: 14px;
+
+    }
+
+    /* slider */
+    .slider-caption {
+        flex-direction: column;
+        row-gap: 5px;
+        column-gap: 10px;
+
+    }
+
+    /* help */
+
+    .help-tile-div {
+        font-size: 20px;
+        width: 80%;
+    }
+
+    .help-devider {
+        width: 90%;
+    }
+
+    .help-para-div {
+        font-size: 14px;
+    }
+
+    .board-title-div {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .common-board-div1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+  
+
+    .common-board-div-top {
+        font-size: 16px;
+    }
+
+    .common-board-div-bottom {
+
+        font-size: 14px;
+
+    }
+
+    .common-board-div {
+        margin-bottom: 20px;
+    }
+
+    .experience-number-div {
+        color: #AF8F3F;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 600;
+    }
+
+    .experience-title-div {
+
+        font-size: 14px;
+
+    }
+
+    .footer-college-name {
+       
+        font-size: 17px;
+     
+      
+   
+    }
+   
+   
+   
+    .footer-email-address {
+        font-size: 16px; 
+    }
+   
+ 
+   
+    .footer-mobile-num {
+       
+        font-size: 17px;
+       
+   
+    }
+   
+  
+
+
+}
+
+@media only screen and (max-width: 778px) {
+    .contact-form-right {
+        margin-top: 20px;
+    }
+    .footer-college-inner{
+        display: flex;
+        flex-direction: column;
+        align-items: center
+    }
+
+   
+    .footer-mobile-inner {
+        display: flex;
+        flex-direction: column;
+        align-items: center
+    }
+    .footer-email-div{
+        margin: 20px 0px;
+    }
+    .experience-number-div {
+       
+        font-size: 20px;
+        
+    }
+    .experience-title-div{
+        font-size: 14px;
+    }
+    
+}
+
+@media only screen and (max-width: 575px) {
+
+    .hero-title {
+        font-size: 24px;
+    }
+
+    .hero-para {
+        font-size: 14px;
+    }
+
+    .help-div {
+        padding: 30px 0px;
+    }
+
+    .help-tile-div {
+        width: 95%;
+    }
+
+    .help-devider {
+        width: 100%;
+    }
+
+    .subject-inner-div {
+        padding: 0px 50px;
+    }
+
+    .subject-title-middle-div {
+        text-align: center;
+    }
+
+    .subject-title-end-div {
+        display: flex;
+        justify-content: center;
+    }
+
+    .common-board-div1-top {
+
+        font-size: 20px;
+
+    }
+
+    .common-board-div1-bottom {
+
+        font-size: 16px;
+
+    }
+
+    .common-board-div {
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+
+    
+
+    .contact-form-div {
+        margin: 0px 20px;
+    }
+
+
+    .communication-contact {
+
+        font-size: 25px;
+
+    }
+
+    .all-rights {
+       
+        font-size: 13px;
+        
+   
+    }
+
+    .home-gallery-title-div {
+        
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+       
+    }
+    .home-gallery-title-left {
+     
+        font-size: 20px;
+        margin-bottom: 10px;
+      
+   
+    }
+
+    .common-board-div1-img {
+        height: 180px;
+    }
+
+}

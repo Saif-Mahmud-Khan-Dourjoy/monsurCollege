@@ -1,0 +1,55 @@
+@media only screen and (max-width: 992px) {
+    .main-gallery-top-div{
+        height: 300px;
+    }
+    
+
+
+}
+
+@media only screen and (max-width: 778px) {
+
+    .main-gallery-top-div{
+        height: 250px;
+    }
+   
+
+
+    .carousel-control-next-icon {
+        background-image: url("/images/arrow-right-circle.svg") !important;
+        background-size: 20px 20px;
+    }
+    
+    .carousel-control-prev-icon {
+        background-image:  url("/images/arrow-left-circle.svg") !important;
+        background-size: 20px 20px;
+    }
+
+    .owl-carousel-img{
+        height: 150px;
+        
+    }
+    .single-carousel-img {
+       
+        border-radius: 20px;
+    }
+
+    .all-photo-title-div{
+        margin-bottom: 20px;
+    }
+
+
+}
+@media only screen and (max-width: 575px) {
+    .main-gallery-top-div{
+        height: 200px;
+    }
+    
+
+    .single-carousel-img{
+        height: 250px;
+    }
+
+    
+
+}
