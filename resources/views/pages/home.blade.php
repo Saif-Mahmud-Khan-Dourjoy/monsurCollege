@@ -1,11 +1,11 @@
 @extends('layout.app')
 @section('main_content')
     <div class="hero-section">
-        <div class="container">
+        <div class="container hero-content-wrapper-top">
             <div class="hero-content-wrapper">
-
-                <div class="hero-content">
-                    <div style="height: 3px; width:100%;background:white;margin-top:15px;border-radius:10px"></div>
+              <div class="hero-content">
+                <div >
+                    <div style="height: 3px; width:100%;background:white;border-radius:10px"></div>
                     <div class="hero-title">
                         Let’s have your best experience of campus life with us
                     </div>
@@ -19,6 +19,8 @@
                         advance.
                     </div>
                 </div>
+              </div>
+               
 
             </div>
 

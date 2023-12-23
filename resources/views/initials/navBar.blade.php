@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg  sticky-top" style="padding-bottom: 0px !important; padding-top:0px !important">
     <div style="width: 100%">
         <div style="background: white" class="top-nav">
-            <div class="container" style="width:100%;padding:5px 0px">
+            <div class="container" style="width:100%;padding:0px 0px">
                 <div style="" class="row">
                     <div class="col-4 d-flex align-items-center justify-content-start">
                         <div style="display: flex;justify-content:center;align-items:center;column-gap:5px">
@@ -9,7 +9,7 @@
                                 <img style="height: 70px" src="{{ asset('images/titleLogo.svg') }}" alt="">
                             </div>
                             <div class="titleLogoText">
-                                শিক্ষা নিয়ে গরব দেশ
+                                শিক্ষা নিয়ে গরব দেশ <br>
                                 শেখ হাসিনার বাংলাদেশ
                             </div>
                         </div>
@@ -18,7 +18,7 @@
                     <div class="col-4 d-flex align-items-center justify-content-center">
                         <div style="display: flex;justify-content:center;align-items:center">
                             <div>
-                                <img style="height: 80px" src="{{ asset('images/clgLogo.svg') }}" alt="">
+                                <img style="height: 100px" src="{{ asset('images/clgLogo.svg') }}" alt="">
                             </div>
 
                         </div>
@@ -40,7 +40,7 @@
         </div>
 
         <div style="background: #14213d;width:100%">
-            <div class="container py-3">
+            <div class="container">
                 <div class="d-flex justify-content-between align-items-center">
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false"

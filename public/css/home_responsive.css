@@ -1,5 +1,24 @@
+@media only screen and (min-width:1600px) {
+    .hero-section {
+        height: 73vh;
+    }
+    .hero-content-wrapper {
+        height: 73vh;
+    }
+  }
+ 
+  @media only screen and (max-width:1599px) {
+    .hero-section {
+        height: 65vh;
+    }
+
+    .hero-content-wrapper {
+        height: 65vh;
+    }
+  }
+
 @media only screen and (max-width: 1200px) {
-    .hero-content {
+    .hero-content-wrapper {
         width: 50%;
 
     }
@@ -57,13 +76,18 @@
 
     /* hero */
     .hero-content-wrapper {
-        padding: 30px 0px;
+       width: 100%;
+       height: 55vh;
+
     }
 
-    .hero-content {
-        width: 100%;
-        margin: 0 auto;
+    .hero-content-wrapper-top{
+        display: flex;
+        height: 100%;
+        align-items: center;
     }
+
+  
 
     .hero-title {
 
